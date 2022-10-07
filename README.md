@@ -1,7 +1,7 @@
 # IoT_Sensor_Kafka_Spark_Data_Streaming
 
-IoT Real-time Data Processing and Analytics using Apache Spark / Kafka
-=============================================
+
+
 
 ![ProjectOverivew](image.png)  
 
